@@ -16,7 +16,7 @@ ______
 How it works:
 
 1. Create a letter: Write a letter on any given topic ✏
-2. It goes public: Others can make a copy of your letter and edit or rewrite it 🔊
+2. It goes public: Others can make a copy of your letter and edit or rewrite it 🎬
 3. Final letter published: AI blends all admission into one final letter 📜  
 
 ______
